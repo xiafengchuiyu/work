@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+   printf("这是我第一次使用github\n");
+   return 0;
+}
